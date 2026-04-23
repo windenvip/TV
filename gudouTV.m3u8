@@ -1,0 +1,153 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#—————————— 4K超高清专区 ——————————
+#EXTINF:-1 group-title="4K超高清专区",CCTV4K
+http://172.16.149.176:9090/live/4005.m3u8
+#EXTINF:-1 group-title="4K超高清专区",CCTV16-4K
+http://172.16.149.176:9090/live/4010.m3u8
+
+#—————————— 央视可用频道 ——————————
+#EXTINF:-1 group-title="央视",CCTV1 综合
+http://172.16.149.176:9090/live/1402_800.m3u8
+#EXTINF:-1 group-title="央视",CCTV2 财经
+http://172.16.149.176:9090/live/1403_800.m3u8
+#EXTINF:-1 group-title="央视",CCTV3 综艺
+http://172.16.149.176:9090/live/1603.m3u8
+#EXTINF:-1 group-title="央视",CCTV4 中文国际
+http://172.16.149.176:9090/live/1604.m3u8
+#EXTINF:-1 group-title="央视",CCTV5 体育
+http://172.16.149.176:9090/live/1605.m3u8
+#EXTINF:-1 group-title="央视",CCTV5+ 体育赛事
+http://172.16.149.176:9090/live/1602_800.m3u8
+#EXTINF:-1 group-title="央视",CCTV6 电影
+http://172.16.149.176:9090/live/1606.m3u8
+#EXTINF:-1 group-title="央视",CCTV7 国防军事
+http://172.16.149.176:9090/live/1607.m3u8
+#EXTINF:-1 group-title="央视",CCTV8 电视剧
+http://172.16.149.176:9090/live/1608.m3u8
+#EXTINF:-1 group-title="央视",CCTV9 纪录
+http://172.16.149.176:9090/live/1609_800.m3u8
+#EXTINF:-1 group-title="央视",CCTV10 科教
+http://172.16.149.176:9090/live/1610.m3u8
+#EXTINF:-1 group-title="央视",CCTV13 新闻
+http://172.16.149.176:9090/live/1613.m3u8
+#EXTINF:-1 group-title="央视",CCTV16 奥林匹克
+http://172.16.149.176:9090/live/1617_800.m3u8
+
+#—————————— 数字付费特色频道 ——————————
+#EXTINF:-1 group-title="付费频道",梨园频道
+http://172.16.149.176:9090/live/1937.m3u8
+#EXTINF:-1 group-title="付费频道",武术世界
+http://172.16.149.176:9090/live/1938.m3u8
+#EXTINF:-1 group-title="付费频道",文物宝库
+http://172.16.149.176:9090/live/1939.m3u8
+#EXTINF:-1 group-title="付费频道",金色学堂
+http://172.16.149.176:9090/live/1940.m3u8
+#EXTINF:-1 group-title="付费频道",东方财经
+http://172.16.149.176:9090/live/1941.m3u8
+#EXTINF:-1 group-title="付费频道",求索生活
+http://172.16.149.176:9090/live/1612.m3u8
+#EXTINF:-1 group-title="付费频道",劲爆体育
+http://172.16.149.176:9090/live/1505.m3u8
+
+#—————————— 广东省级频道 ——————————
+#EXTINF:-1 group-title="广东省级",广东卫视
+http://172.16.149.176:9090/live/1401_800.m3u8
+#EXTINF:-1 group-title="广东省级",广东珠江
+http://172.16.149.176:9090/live/1437.m3u8
+#EXTINF:-1 group-title="广东省级",广东体育
+http://172.16.149.176:9090/live/1413.m3u8
+#EXTINF:-1 group-title="广东省级",广东新闻
+http://172.16.149.176:9090/live/1454.m3u8
+#EXTINF:-1 group-title="广东省级",广东民生
+http://172.16.149.176:9090/live/1455.m3u8
+#EXTINF:-1 group-title="广东省级",大湾区卫视
+http://172.16.149.176:9090/live/1456.m3u8
+#EXTINF:-1 group-title="广东省级",广东影视
+http://172.16.149.176:9090/live/1458.m3u8
+#EXTINF:-1 group-title="广东省级",嘉佳卡通
+http://172.16.149.176:9090/live/1459.m3u8
+#EXTINF:-1 group-title="广东省级",广东少儿
+http://172.16.149.176:9090/live/1457.m3u8
+#EXTINF:-1 group-title="广东省级",岭南戏曲
+http://172.16.149.176:9090/live/1460.m3u8
+#EXTINF:-1 group-title="广东省级",南方影视
+http://172.16.149.176:9090/live/1464_800.m3u8
+
+#—————————— 全国卫视可用频道 ——————————
+#EXTINF:-1 group-title="全国卫视",江苏卫视
+http://172.16.149.176:9090/live/1422_800.m3u8
+#EXTINF:-1 group-title="全国卫视",浙江卫视
+http://172.16.149.176:9090/live/1423_800.m3u8
+#EXTINF:-1 group-title="全国卫视",湖南卫视
+http://172.16.149.176:9090/live/1424_800.m3u8
+#EXTINF:-1 group-title="全国卫视",深圳卫视
+http://172.16.149.176:9090/live/1425_800.m3u8
+#EXTINF:-1 group-title="全国卫视",四川卫视
+http://172.16.149.176:9090/live/1426_800.m3u8
+#EXTINF:-1 group-title="全国卫视",山东卫视
+http://172.16.149.176:9090/live/1427_800.m3u8
+#EXTINF:-1 group-title="全国卫视",湖北卫视
+http://172.16.149.176:9090/live/1428_800.m3u8
+#EXTINF:-1 group-title="全国卫视",安徽卫视
+http://172.16.149.176:9090/live/1429_800.m3u8
+#EXTINF:-1 group-title="全国卫视",河北卫视
+http://172.16.149.176:9090/live/1430_800.m3u8
+#EXTINF:-1 group-title="全国卫视",陕西卫视
+http://172.16.149.176:9090/live/1432_800.m3u8
+#EXTINF:-1 group-title="全国卫视",山西卫视
+http://172.16.149.176:9090/live/1433_800.m3u8
+#EXTINF:-1 group-title="全国卫视",青海卫视
+http://172.16.149.176:9090/live/1439_800.m3u8
+#EXTINF:-1 group-title="全国卫视",云南卫视
+http://172.16.149.176:9090/live/1444_800.m3u8
+#EXTINF:-1 group-title="全国卫视",天津卫视
+http://172.16.149.176:9090/live/1415_800.m3u8
+#EXTINF:-1 group-title="全国卫视",厦门卫视
+http://172.16.149.176:9090/live/1451_800.m3u8
+#EXTINF:-1 group-title="全国卫视",旅游卫视
+http://172.16.149.176:9090/live/1452_800.m3u8
+#EXTINF:-1 group-title="全国卫视",三沙卫视
+http://172.16.149.176:9090/live/1453.m3u8
+#EXTINF:-1 group-title="全国卫视",甘肃卫视
+http://172.16.149.176:9090/live/1462.m3u8
+
+#—————————— 港澳特色频道 ——————————
+#EXTINF:-1 group-title="港澳特色",翡翠台
+http://172.16.149.176:9090/live/1350_800.m3u8
+#EXTINF:-1 group-title="港澳特色",明珠台
+http://172.16.149.176:9090/live/1351_4500.m3u8
+#EXTINF:-1 group-title="港澳特色",澳视澳门
+http://172.16.149.176:9090/live/1352_4500.m3u8
+
+#—————————— 广东各地市县地方台 ——————————
+#EXTINF:-1 group-title="广东地方台",增城台
+http://172.16.149.176:9090/live/2079.m3u8
+#EXTINF:-1 group-title="广东地方台",东莞新闻综合
+http://172.16.149.176:9090/live/2121.m3u8
+#EXTINF:-1 group-title="广东地方台",东莞生活资讯
+http://172.16.149.176:9090/live/2122.m3u8
+#EXTINF:-1 group-title="广东地方台",斗门融媒
+http://172.16.149.176:9090/live/2207.m3u8
+#EXTINF:-1 group-title="广东地方台",惠州1
+http://172.16.149.176:9090/live/2314.m3u8
+#EXTINF:-1 group-title="广东地方台",惠州2
+http://172.16.149.176:9090/live/2316.m3u8
+#EXTINF:-1 group-title="广东地方台",博罗综合
+http://172.16.149.176:9090/live/2305.m3u8
+#EXTINF:-1 group-title="广东地方台",潮州综合
+http://172.16.149.176:9090/live/3131.m3u8
+#EXTINF:-1 group-title="广东地方台",潮州民生
+http://172.16.149.176:9090/live/3132.m3u8
+#EXTINF:-1 group-title="广东地方台",中山综合
+http://172.16.149.176:9090/live/3665.m3u8
+#EXTINF:-1 group-title="广东地方台",中山香山文化
+http://172.16.149.176:9090/live/3663.m3u8
+#EXTINF:-1 group-title="广东地方台",鹤山综合
+http://172.16.149.176:9090/live/3709.m3u8
+#EXTINF:-1 group-title="广东地方台",佛冈综合
+http://172.16.149.176:9090/live/2405.m3u8
+#EXTINF:-1 group-title="广东地方台",廉江综合-1
+http://172.16.149.176:9090/live/3209.m3u8
+#EXTINF:-1 group-title="广东地方台",廉江综合-2
+http://172.16.149.176:9090/live/3210.m3u8
