@@ -1,443 +1,586 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-# 央视系列
-#EXTINF:-1 tvg-name="CCTV-2财经" group-title="央视频道",CCTV-2财经
-http://172.16.149.176:9090/live/1002.m3u8
-#EXTINF:-1 tvg-name="CCTV-1综合" group-title="央视频道",CCTV-1综合
+#EXTINF:ID1001
 http://172.16.149.176:9090/live/1001.m3u8
-#EXTINF:-1 tvg-name="CCTV-4中文国际" group-title="央视频道",CCTV-4中文国际
-http://172.16.149.176:9090/live/1004.m3u8
-#EXTINF:-1 tvg-name="CCTV-3综艺" group-title="央视频道",CCTV-3综艺
+#EXTINF:ID1002
+http://172.16.149.176:9090/live/1002.m3u8
+#EXTINF:ID1003
 http://172.16.149.176:9090/live/1003.m3u8
-#EXTINF:-1 tvg-name="CCTV-7国防军事" group-title="央视频道",CCTV-7国防军事
-http://172.16.149.176:9090/live/1007.m3u8
-#EXTINF:-1 tvg-name="CCTV-5体育" group-title="央视频道",CCTV-5体育
+#EXTINF:ID1004
+http://172.16.149.176:9090/live/1004.m3u8
+#EXTINF:ID1005
 http://172.16.149.176:9090/live/1005.m3u8
-#EXTINF:-1 tvg-name="CCTV-6电影" group-title="央视频道",CCTV-6电影
+#EXTINF:ID1006
 http://172.16.149.176:9090/live/1006.m3u8
-#EXTINF:-1 tvg-name="CCTV-8电视剧" group-title="央视频道",CCTV-8电视剧
+#EXTINF:ID1007
+http://172.16.149.176:9090/live/1007.m3u8
+#EXTINF:ID1008
 http://172.16.149.176:9090/live/1008.m3u8
-#EXTINF:-1 tvg-name="CCTV-9纪录" group-title="央视频道",CCTV-9纪录
+#EXTINF:ID1009
 http://172.16.149.176:9090/live/1009.m3u8
-#EXTINF:-1 tvg-name="CCTV-12社会与法" group-title="央视频道",CCTV-12社会与法
-http://172.16.149.176:9090/live/1012.m3u8
-#EXTINF:-1 tvg-name="CCTV-10科教" group-title="央视频道",CCTV-10科教
+#EXTINF:ID1010
 http://172.16.149.176:9090/live/1010.m3u8
-#EXTINF:-1 tvg-name="CCTV-11戏曲" group-title="央视频道",CCTV-11戏曲
+#EXTINF:ID1011
 http://172.16.149.176:9090/live/1011.m3u8
-#EXTINF:-1 tvg-name="CCTV-13新闻" group-title="央视频道",CCTV-13新闻
+#EXTINF:ID1012
+http://172.16.149.176:9090/live/1012.m3u8
+#EXTINF:ID1013
 http://172.16.149.176:9090/live/1013.m3u8
-#EXTINF:-1 tvg-name="CCTV-14少儿" group-title="央视频道",CCTV-14少儿
+#EXTINF:ID1014
 http://172.16.149.176:9090/live/1014.m3u8
-#EXTINF:-1 tvg-name="CCTV-16奥林匹克4K" group-title="央视4K频道",CCTV-16奥林匹克4K
-http://172.16.149.176:9090/live/1016.m3u8
-#EXTINF:-1 tvg-name="CCTV-15音乐" group-title="央视频道",CCTV-15音乐
+#EXTINF:ID1015
 http://172.16.149.176:9090/live/1015.m3u8
-#EXTINF:-1 tvg-name="CCTV-17农业农村" group-title="央视频道",CCTV-17农业农村
+#EXTINF:ID1016
+http://172.16.149.176:9090/live/1016.m3u8
+#EXTINF:ID1019
 http://172.16.149.176:9090/live/1019.m3u8
-
-# 卫视综合频道
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://172.16.149.176:9090/live/1202.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+#EXTINF:ID1201
 http://172.16.149.176:9090/live/1201.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://172.16.149.176:9090/live/1204.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+#EXTINF:ID1202
+http://172.16.149.176:9090/live/1202.m3u8
+#EXTINF:ID1203
 http://172.16.149.176:9090/live/1203.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://172.16.149.176:9090/live/1207.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://172.16.149.176:9090/live/1206.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
+#EXTINF:ID1204
+http://172.16.149.176:9090/live/1204.m3u8
+#EXTINF:ID1205
 http://172.16.149.176:9090/live/1205.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="卫视频道",山东卫视
+#EXTINF:ID1206
+http://172.16.149.176:9090/live/1206.m3u8
+#EXTINF:ID1207
+http://172.16.149.176:9090/live/1207.m3u8
+#EXTINF:ID1208
 http://172.16.149.176:9090/live/1208.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://172.16.149.176:9090/live/1211.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东本地频道",广东卫视
-http://172.16.149.176:9090/live/1212.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道",江西卫视
+#EXTINF:ID1209
 http://172.16.149.176:9090/live/1209.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道",河南卫视
+#EXTINF:ID1210
 http://172.16.149.176:9090/live/1210.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://172.16.149.176:9090/live/1214.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+#EXTINF:ID1211
+http://172.16.149.176:9090/live/1211.m3u8
+#EXTINF:ID1212
+http://172.16.149.176:9090/live/1212.m3u8
+#EXTINF:ID1213
 http://172.16.149.176:9090/live/1213.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
+#EXTINF:ID1214
+http://172.16.149.176:9090/live/1214.m3u8
+#EXTINF:ID1215
 http://172.16.149.176:9090/live/1215.m3u8
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道",山西卫视
+#EXTINF:ID1216
 http://172.16.149.176:9090/live/1216.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+#EXTINF:ID1217
 http://172.16.149.176:9090/live/1217.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://172.16.149.176:9090/live/1220.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+#EXTINF:ID1218
 http://172.16.149.176:9090/live/1218.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
+#EXTINF:ID1220
+http://172.16.149.176:9090/live/1220.m3u8
+#EXTINF:ID1221
 http://172.16.149.176:9090/live/1221.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="卫视频道",云南卫视
+#EXTINF:ID1222
 http://172.16.149.176:9090/live/1222.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+#EXTINF:ID1226
 http://172.16.149.176:9090/live/1226.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道",广西卫视
+#EXTINF:ID1229
 http://172.16.149.176:9090/live/1229.m3u8
-#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
+#EXTINF:ID1233
 http://172.16.149.176:9090/live/1233.m3u8
-#EXTINF:-1 tvg-name="青海卫视" group-title="卫视频道",青海卫视
+#EXTINF:ID1234
 http://172.16.149.176:9090/live/1234.m3u8
-#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道",宁夏卫视
+#EXTINF:ID1235
 http://172.16.149.176:9090/live/1235.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+#EXTINF:ID1237
 http://172.16.149.176:9090/live/1237.m3u8
-#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+#EXTINF:ID1238
 http://172.16.149.176:9090/live/1238.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+#EXTINF:ID1239
 http://172.16.149.176:9090/live/1239.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
-http://172.16.149.176:9090/live/1241.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道",东南卫视
+#EXTINF:ID1240
 http://172.16.149.176:9090/live/1240.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道",厦门卫视
+#EXTINF:ID1241
+http://172.16.149.176:9090/live/1241.m3u8
+#EXTINF:ID1242
 http://172.16.149.176:9090/live/1242.m3u8
-#EXTINF:-1 tvg-name="旅游卫视" group-title="特色频道",海南卫视
-http://172.16.149.176:9090/live/1244.m3u8
-#EXTINF:-1 tvg-name="福建东南" group-title="卫视频道",福建卫视
+#EXTINF:ID1243
 http://172.16.149.176:9090/live/1243.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道",金鹰卡通
+#EXTINF:ID1244
+http://172.16.149.176:9090/live/1244.m3u8
+#EXTINF:ID1245
 http://172.16.149.176:9090/live/1245.m3u8
-#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿频道",优漫卡通
-http://172.16.149.176:9090/live/1247.m3u8
-#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道",卡酷少儿
-http://172.16.149.176:9090/live/1248.m3u8
-#EXTINF:-1 tvg-name="炫动卡通" group-title="少儿频道",炫动卡通
+#EXTINF:ID1246
 http://172.16.149.176:9090/live/1246.m3u8
-#EXTINF:-1 tvg-name="中国教育1台" group-title="教育频道",中国教育1台
-http://172.16.149.176:9090/live/1250.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" group-title="教育频道",中国教育2台
+#EXTINF:ID1247
+http://172.16.149.176:9090/live/1247.m3u8
+#EXTINF:ID1248
+http://172.16.149.176:9090/live/1248.m3u8
+#EXTINF:ID1249
 http://172.16.149.176:9090/live/1249.m3u8
-#EXTINF:-1 tvg-name="CETV教育三台" group-title="教育频道",CETV教育三台
+#EXTINF:ID1250
+http://172.16.149.176:9090/live/1250.m3u8
+#EXTINF:ID1251
 http://172.16.149.176:9090/live/1251.m3u8
-#EXTINF:-1 tvg-name="CETV教育四台" group-title="教育频道",CETV教育四台
+#EXTINF:ID1252
 http://172.16.149.176:9090/live/1252.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" group-title="付费影视",CHC家庭影院
+#EXTINF:ID1254
 http://172.16.149.176:9090/live/1254.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" group-title="付费影视",CHC动作电影
+#EXTINF:ID1257
 http://172.16.149.176:9090/live/1257.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" group-title="付费影视",CHC高清电影
+#EXTINF:ID1259
 http://172.16.149.176:9090/live/1259.m3u8
-#EXTINF:-1 tvg-name="风云足球" group-title="付费体育",风云足球
+#EXTINF:ID1267
 http://172.16.149.176:9090/live/1267.m3u8
-#EXTINF:-1 tvg-name="高尔夫网球" group-title="付费体育",高尔夫网球
+#EXTINF:ID1279
 http://172.16.149.176:9090/live/1279.m3u8
-
-# 广东本地系列频道（佛山谷豆核心本地台）
-#EXTINF:-1 tvg-name="广东珠江频道" group-title="广东本地频道",广东珠江频道
-http://172.16.149.176:9090/live/1302.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="广东本地频道",广东卫视
+#EXTINF:ID1301
 http://172.16.149.176:9090/live/1301.m3u8
-#EXTINF:-1 tvg-name="广东体育" group-title="广东本地频道",广东体育
+#EXTINF:ID1302
+http://172.16.149.176:9090/live/1302.m3u8
+#EXTINF:ID1304
 http://172.16.149.176:9090/live/1304.m3u8
-#EXTINF:-1 tvg-name="广东公共(大湾区卫视)" group-title="广东本地频道",大湾区卫视
+#EXTINF:ID1307
 http://172.16.149.176:9090/live/1307.m3u8
-#EXTINF:-1 tvg-name="广东经济科教" group-title="广东本地频道",广东经济科教
+#EXTINF:ID1321
 http://172.16.149.176:9090/live/1321.m3u8
-#EXTINF:-1 tvg-name="广东影视" group-title="广东本地频道",广东影视
-http://172.16.149.176:9090/live/1352.m3u8
-#EXTINF:-1 tvg-name="广东综艺" group-title="广东本地频道",广东综艺
+#EXTINF:ID1350
 http://172.16.149.176:9090/live/1350.m3u8
-#EXTINF:-1 tvg-name="广东少儿" group-title="广东本地频道",广东少儿
-http://172.16.149.176:9090/live/1353.m3u8
-#EXTINF:-1 tvg-name="岭南戏曲" group-title="广东本地频道",岭南戏曲
+#EXTINF:ID1351
 http://172.16.149.176:9090/live/1351.m3u8
-
-# 广州/佛山本地台
-#EXTINF:-1 tvg-name="广州综合" group-title="广佛本地频道",广州综合
+#EXTINF:ID1352
+http://172.16.149.176:9090/live/1352.m3u8
+#EXTINF:ID1353
+http://172.16.149.176:9090/live/1353.m3u8
+#EXTINF:ID1401
 http://172.16.149.176:9090/live/1401.m3u8
-#EXTINF:-1 tvg-name="广州体育" group-title="广佛本地频道",广州体育
-http://172.16.149.176:9090/live/1405.m3u8
-#EXTINF:-1 tvg-name="广州影视" group-title="广佛本地频道",广州影视
-http://172.16.149.176:9090/live/1406.m3u8
-#EXTINF:-1 tvg-name="广州新闻" group-title="广佛本地频道",广州新闻
-http://172.16.149.176:9090/live/1403.m3u8
-#EXTINF:-1 tvg-name="广州经济" group-title="广佛本地频道",广州经济
+#EXTINF:ID1402
 http://172.16.149.176:9090/live/1402.m3u8
-#EXTINF:-1 tvg-name="广州竞赛" group-title="广佛本地频道",广州竞赛
+#EXTINF:ID1403
+http://172.16.149.176:9090/live/1403.m3u8
+#EXTINF:ID1405
+http://172.16.149.176:9090/live/1405.m3u8
+#EXTINF:ID1406
+http://172.16.149.176:9090/live/1406.m3u8
+#EXTINF:ID1407
 http://172.16.149.176:9090/live/1407.m3u8
-#EXTINF:-1 tvg-name="广州移动" group-title="广佛本地频道",广州移动频道
+#EXTINF:ID1408
 http://172.16.149.176:9090/live/1408.m3u8
-#EXTINF:-1 tvg-name="佛山公共" group-title="广佛本地频道",佛山公共
-http://172.16.149.176:9090/live/1412.m3u8
-#EXTINF:-1 tvg-name="佛山综合" group-title="广佛本地频道",佛山综合
+#EXTINF:ID1409
 http://172.16.149.176:9090/live/1409.m3u8
-#EXTINF:-1 tvg-name="佛山影视" group-title="广佛本地频道",佛山影视
+#EXTINF:ID1410
 http://172.16.149.176:9090/live/1410.m3u8
-#EXTINF:-1 tvg-name="佛山新闻" group-title="广佛本地频道",佛山新闻
+#EXTINF:ID1411
 http://172.16.149.176:9090/live/1411.m3u8
-#EXTINF:-1 tvg-name="顺德频道" group-title="广佛本地频道",顺德频道
+#EXTINF:ID1412
+http://172.16.149.176:9090/live/1412.m3u8
+#EXTINF:ID1413
 http://172.16.149.176:9090/live/1413.m3u8
-#EXTINF:-1 tvg-name="高明频道" group-title="广佛本地频道",高明频道
-http://172.16.149.176:9090/live/1415.m3u8
-#EXTINF:-1 tvg-name="三水频道" group-title="广佛本地频道",三水频道
+#EXTINF:ID1414
 http://172.16.149.176:9090/live/1414.m3u8
-#EXTINF:-1 tvg-name="珠海频道" group-title="广东地市台",珠海综合
+#EXTINF:ID1415
+http://172.16.149.176:9090/live/1415.m3u8
+#EXTINF:ID1416
 http://172.16.149.176:9090/live/1416.m3u8
-#EXTINF:-1 tvg-name="中山频道" group-title="广东地市台",中山综合
-http://172.16.149.176:9090/live/1419.m3u8
-#EXTINF:-1 tvg-name="东莞频道" group-title="广东地市台",东莞综合
-http://172.16.149.176:9090/live/1418.m3u8
-#EXTINF:-1 tvg-name="江门频道" group-title="广东地市台",江门综合
+#EXTINF:ID1417
 http://172.16.149.176:9090/live/1417.m3u8
-#EXTINF:-1 tvg-name="惠州频道" group-title="广东地市台",惠州综合
-http://172.16.149.176:9090/live/1423.m3u8
-#EXTINF:-1 tvg-name="汕头综合" group-title="广东地市台",汕头综合
+#EXTINF:ID1418
+http://172.16.149.176:9090/live/1418.m3u8
+#EXTINF:ID1419
+http://172.16.149.176:9090/live/1419.m3u8
+#EXTINF:ID1422
 http://172.16.149.176:9090/live/1422.m3u8
-#EXTINF:-1 tvg-name="潮州频道" group-title="广东地市台",潮州综合
+#EXTINF:ID1423
+http://172.16.149.176:9090/live/1423.m3u8
+#EXTINF:ID1424
 http://172.16.149.176:9090/live/1424.m3u8
-#EXTINF:-1 tvg-name="揭阳频道" group-title="广东地市台",揭阳综合
+#EXTINF:ID1425
 http://172.16.149.176:9090/live/1425.m3u8
-#EXTINF:-1 tvg-name="汕尾频道" group-title="广东地市台",汕尾综合
-http://172.16.149.176:9090/live/1427.m3u8
-#EXTINF:-1 tvg-name="梅州频道" group-title="广东地市台",梅州综合
+#EXTINF:ID1426
 http://172.16.149.176:9090/live/1426.m3u8
-#EXTINF:-1 tvg-name="河源频道" group-title="广东地市台",河源综合
+#EXTINF:ID1427
+http://172.16.149.176:9090/live/1427.m3u8
+#EXTINF:ID1428
 http://172.16.149.176:9090/live/1428.m3u8
-#EXTINF:-1 tvg-name="阳江频道" group-title="广东地市台",阳江综合
+#EXTINF:ID1429
 http://172.16.149.176:9090/live/1429.m3u8
-#EXTINF:-1 tvg-name="清远频道" group-title="广东地市台",清远综合
+#EXTINF:ID1430
 http://172.16.149.176:9090/live/1430.m3u8
-#EXTINF:-1 tvg-name="云浮频道" group-title="广东地市台",云浮综合
-http://172.16.149.176:9090/live/1433.m3u8
-#EXTINF:-1 tvg-name="茂名频道" group-title="广东地市台",茂名综合
+#EXTINF:ID1432
 http://172.16.149.176:9090/live/1432.m3u8
-#EXTINF:-1 tvg-name="湛江频道" group-title="广东地市台",湛江综合
+#EXTINF:ID1433
+http://172.16.149.176:9090/live/1433.m3u8
+#EXTINF:ID1437
 http://172.16.149.176:9090/live/1437.m3u8
-#EXTINF:-1 tvg-name="韶关频道" group-title="广东地市台",韶关综合
+#EXTINF:ID1438
 http://172.16.149.176:9090/live/1438.m3u8
-#EXTINF:-1 tvg-name="肇庆频道" group-title="广东地市台",肇庆综合
-http://172.16.149.176:9090/live/1441.m3u8
-#EXTINF:-1 tvg-name="梅州影视" group-title="广东地市台",梅州公共
+#EXTINF:ID1439
 http://172.16.149.176:9090/live/1439.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://172.16.149.176:9090/live/1445.m3u8
-#EXTINF:-1 tvg-name="深圳都市" group-title="广东地市台",深圳都市
+#EXTINF:ID1441
+http://172.16.149.176:9090/live/1441.m3u8
+#EXTINF:ID1444
 http://172.16.149.176:9090/live/1444.m3u8
-#EXTINF:-1 tvg-name="深圳电视剧" group-title="广东地市台",深圳电视剧
+#EXTINF:ID1445
+http://172.16.149.176:9090/live/1445.m3u8
+#EXTINF:ID1451
 http://172.16.149.176:9090/live/1451.m3u8
-#EXTINF:-1 tvg-name="深圳体育健康" group-title="广东地市台",深圳体育健康
-http://172.16.149.176:9090/live/1453.m3u8
-#EXTINF:-1 tvg-name="深圳财经生活" group-title="广东地市台",深圳财经生活
+#EXTINF:ID1452
 http://172.16.149.176:9090/live/1452.m3u8
-#EXTINF:-1 tvg-name="深圳少儿" group-title="广东地市台",深圳少儿
-http://172.16.149.176:9090/live/1455.m3u8
-#EXTINF:-1 tvg-name="深圳公共" group-title="广东地市台",深圳公共
+#EXTINF:ID1453
+http://172.16.149.176:9090/live/1453.m3u8
+#EXTINF:ID1454
 http://172.16.149.176:9090/live/1454.m3u8
-#EXTINF:-1 tvg-name="深圳DV生活" group-title="广东地市台",深圳DV生活
-http://172.16.149.176:9090/live/1457.m3u8
-#EXTINF:-1 tvg-name="南方卫视" group-title="广东本地频道",南方卫视
-http://172.16.149.176:9090/live/1459.m3u8
-#EXTINF:-1 tvg-name="南方影视" group-title="广东本地频道",南方影视
-http://172.16.149.176:9090/live/1458.m3u8
-#EXTINF:-1 tvg-name="南方综艺" group-title="广东本地频道",南方综艺
+#EXTINF:ID1455
+http://172.16.149.176:9090/live/1455.m3u8
+#EXTINF:ID1456
 http://172.16.149.176:9090/live/1456.m3u8
-#EXTINF:-1 tvg-name="南方少儿" group-title="广东本地频道",南方少儿
+#EXTINF:ID1457
+http://172.16.149.176:9090/live/1457.m3u8
+#EXTINF:ID1458
+http://172.16.149.176:9090/live/1458.m3u8
+#EXTINF:ID1459
+http://172.16.149.176:9090/live/1459.m3u8
+#EXTINF:ID1460
 http://172.16.149.176:9090/live/1460.m3u8
-#EXTINF:-1 tvg-name="广东移动频道" group-title="广东本地频道",广东移动
+#EXTINF:ID1463
 http://172.16.149.176:9090/live/1463.m3u8
-#EXTINF:-1 tvg-name="广州邮轮频道" group-title="特色频道",广州邮轮
+#EXTINF:ID1464
 http://172.16.149.176:9090/live/1464.m3u8
-#EXTINF:-1 tvg-name="导视频道" group-title="导视频道",导视频道
+#EXTINF:ID1465
 http://172.16.149.176:9090/live/1465.m3u8
-#EXTINF:-1 tvg-name="高清测试频道" group-title="测试频道",高清测试
-http://172.16.149.176:9090/live/1467.m3u8
-#EXTINF:-1 tvg-name="轮播影视1" group-title="影视轮播",轮播影视1
+#EXTINF:ID1466
 http://172.16.149.176:9090/live/1466.m3u8
-#EXTINF:-1 tvg-name="轮播影视2" group-title="影视轮播",轮播影视2
+#EXTINF:ID1467
+http://172.16.149.176:9090/live/1467.m3u8
+#EXTINF:ID1468
 http://172.16.149.176:9090/live/1468.m3u8
-#EXTINF:-1 tvg-name="轮播电视剧1" group-title="影视轮播",轮播电视剧1
+#EXTINF:ID1469
 http://172.16.149.176:9090/live/1469.m3u8
-#EXTINF:-1 tvg-name="经典老剧轮播" group-title="影视轮播",经典老剧轮播
+#EXTINF:ID1470
 http://172.16.149.176:9090/live/1470.m3u8
-#EXTINF:-1 tvg-name="港片电影轮播" group-title="影视轮播",港片电影轮播
+#EXTINF:ID1471
 http://172.16.149.176:9090/live/1471.m3u8
-#EXTINF:-1 tvg-name="华语电影轮播" group-title="影视轮播",华语电影轮播
+#EXTINF:ID1472
 http://172.16.149.176:9090/live/1472.m3u8
-
-# 境外/港澳台频道（谷豆佛山授权）
-#EXTINF:-1 tvg-name="香港翡翠台" group-title="港澳台频道",香港翡翠台
+#EXTINF:ID1505
 http://172.16.149.176:9090/live/1505.m3u8
-#EXTINF:-1 tvg-name="香港明珠台" group-title="港澳台频道",香港明珠台
+#EXTINF:ID1507
 http://172.16.149.176:9090/live/1507.m3u8
-#EXTINF:-1 tvg-name="凤凰中文台" group-title="港澳台频道",凤凰中文台
+#EXTINF:ID1514
 http://172.16.149.176:9090/live/1514.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯台" group-title="港澳台频道",凤凰资讯台
+#EXTINF:ID1523
 http://172.16.149.176:9090/live/1523.m3u8
-#EXTINF:-1 tvg-name="星空卫视" group-title="港澳台频道",星空卫视
+#EXTINF:ID1524
 http://172.16.149.176:9090/live/1524.m3u8
-
-# 4K超高清专区
-#EXTINF:-1 tvg-name="CCTV4K超高清" group-title="4K超高清频道",CCTV4K超高清
-http://172.16.149.176:9090/live/1603.m3u8
-#EXTINF:-1 tvg-name="广东4K超高清" group-title="4K超高清频道",广东4K超高清
+#EXTINF:ID1602
 http://172.16.149.176:9090/live/1602.m3u8
-#EXTINF:-1 tvg-name="珠江4K" group-title="4K超高清频道",珠江4K
-http://172.16.149.176:9090/live/1605.m3u8
-#EXTINF:-1 tvg-name="亚运4K频道" group-title="4K超高清频道",亚运4K
+#EXTINF:ID1603
+http://172.16.149.176:9090/live/1603.m3u8
+#EXTINF:ID1604
 http://172.16.149.176:9090/live/1604.m3u8
-#EXTINF:-1 tvg-name="8K超高清测试" group-title="4K超高清频道",8K超高清测试
+#EXTINF:ID1605
+http://172.16.149.176:9090/live/1605.m3u8
+#EXTINF:ID1606
 http://172.16.149.176:9090/live/1606.m3u8
-#EXTINF:-1 tvg-name="4K影视轮播1" group-title="4K超高清频道",4K影视轮播1
-http://172.16.149.176:9090/live/1608.m3u8
-#EXTINF:-1 tvg-name="4K影视轮播2" group-title="4K超高清频道",4K影视轮播2
+#EXTINF:ID1607
 http://172.16.149.176:9090/live/1607.m3u8
-#EXTINF:-1 tvg-name="4K体育赛事轮播" group-title="4K超高清频道",4K体育轮播
+#EXTINF:ID1608
+http://172.16.149.176:9090/live/1608.m3u8
+#EXTINF:ID1609
 http://172.16.149.176:9090/live/1609.m3u8
-#EXTINF:-1 tvg-name="央视超高清专区" group-title="4K超高清频道",央视超高清专区
+#EXTINF:ID1610
 http://172.16.149.176:9090/live/1610.m3u8
-#EXTINF:-1 tvg-name="4K纪录片专区" group-title="4K超高清频道",4K纪录片
+#EXTINF:ID1611
 http://172.16.149.176:9090/live/1611.m3u8
-#EXTINF:-1 tvg-name="4K动漫专区" group-title="4K超高清频道",4K动漫专区
+#EXTINF:ID1612
 http://172.16.149.176:9090/live/1612.m3u8
-#EXTINF:-1 tvg-name="4K综艺专区" group-title="4K超高清频道",4K综艺专区
+#EXTINF:ID1613
 http://172.16.149.176:9090/live/1613.m3u8
-#EXTINF:-1 tvg-name="超高清音乐台" group-title="4K超高清频道",超高清音乐
+#EXTINF:ID1614
 http://172.16.149.176:9090/live/1614.m3u8
-#EXTINF:-1 tvg-name="环球4K影视" group-title="4K超高清频道",环球4K影视
-http://172.16.149.176:9090/live/1616.m3u8
-#EXTINF:-1 tvg-name="国风4K戏曲" group-title="4K超高清频道",国风4K戏曲
+#EXTINF:ID1615
 http://172.16.149.176:9090/live/1615.m3u8
-#EXTINF:-1 tvg-name="4K自然风光台" group-title="4K超高清频道",4K自然风光
+#EXTINF:ID1616
+http://172.16.149.176:9090/live/1616.m3u8
+#EXTINF:ID1617
 http://172.16.149.176:9090/live/1617.m3u8
-
-# 数字付费频道系列
-#EXTINF:-1 tvg-name="风云剧场" group-title="付费数字频道",风云剧场
+#EXTINF:ID1702
 http://172.16.149.176:9090/live/1702.m3u8
-#EXTINF:-1 tvg-name="风云影院" group-title="付费数字频道",风云影院
+#EXTINF:ID1704
 http://172.16.149.176:9090/live/1704.m3u8
-#EXTINF:-1 tvg-name="风云音乐" group-title="付费数字频道",风云音乐
+#EXTINF:ID1706
 http://172.16.149.176:9090/live/1706.m3u8
-#EXTINF:-1 tvg-name="家庭剧场" group-title="付费数字频道",家庭剧场
-http://172.16.149.176:9090/live/1711.m3u8
-#EXTINF:-1 tvg-name="老故事频道" group-title="付费数字频道",老故事频道
-http://172.16.149.176:9090/live/1714.m3u8
-#EXTINF:-1 tvg-name="书画频道" group-title="付费数字频道",书画频道
-http://172.16.149.176:9090/live/1713.m3u8
-#EXTINF:-1 tvg-name="游戏竞技" group-title="付费数字频道",游戏竞技
+#EXTINF:ID1708
 http://172.16.149.176:9090/live/1708.m3u8
-#EXTINF:-1 tvg-name="靓妆频道" group-title="付费数字频道",靓妆频道
-http://172.16.149.176:9090/live/1719.m3u8
-#EXTINF:-1 tvg-name="母婴频道" group-title="付费数字频道",母婴频道
+#EXTINF:ID1711
+http://172.16.149.176:9090/live/1711.m3u8
+#EXTINF:ID1713
+http://172.16.149.176:9090/live/1713.m3u8
+#EXTINF:ID1714
+http://172.16.149.176:9090/live/1714.m3u8
+#EXTINF:ID1718
 http://172.16.149.176:9090/live/1718.m3u8
-#EXTINF:-1 tvg-name="收藏天下" group-title="付费数字频道",收藏天下
+#EXTINF:ID1719
+http://172.16.149.176:9090/live/1719.m3u8
+#EXTINF:ID1732
 http://172.16.149.176:9090/live/1732.m3u8
-#EXTINF:-1 tvg-name="国学频道" group-title="付费数字频道",国学频道
+#EXTINF:ID1735
 http://172.16.149.176:9090/live/1735.m3u8
-#EXTINF:-1 tvg-name="摄影频道" group-title="付费数字频道",摄影频道
+#EXTINF:ID1740
 http://172.16.149.176:9090/live/1740.m3u8
-
-# 卫视频道剩余
-#EXTINF:-1 tvg-name="安徽影视" group-title="地方付费台",安徽影视
-http://172.16.149.176:9090/live/1902.m3u8
-#EXTINF:-1 tvg-name="江苏影视" group-title="地方付费台",江苏影视
+#EXTINF:ID1901
 http://172.16.149.176:9090/live/1901.m3u8
-#EXTINF:-1 tvg-name="浙江影视" group-title="地方付费台",浙江影视
-http://172.16.149.176:9090/live/1908.m3u8
-#EXTINF:-1 tvg-name="上海纪实" group-title="地方付费台",上海纪实
-http://172.16.149.176:9090/live/1914.m3u8
-#EXTINF:-1 tvg-name="湖南金鹰纪实" group-title="地方付费台",湖南金鹰纪实
+#EXTINF:ID1902
+http://172.16.149.176:9090/live/1902.m3u8
+#EXTINF:ID1906
 http://172.16.149.176:9090/live/1906.m3u8
-#EXTINF:-1 tvg-name="湖北影视" group-title="地方付费台",湖北影视
+#EXTINF:ID1908
+http://172.16.149.176:9090/live/1908.m3u8
+#EXTINF:ID1914
+http://172.16.149.176:9090/live/1914.m3u8
+#EXTINF:ID1918
 http://172.16.149.176:9090/live/1918.m3u8
-#EXTINF:-1 tvg-name="河南影视" group-title="地方付费台",河南影视
+#EXTINF:ID1921
 http://172.16.149.176:9090/live/1921.m3u8
-#EXTINF:-1 tvg-name="四川影视文艺" group-title="地方付费台",四川影视文艺
+#EXTINF:ID1937
 http://172.16.149.176:9090/live/1937.m3u8
-#EXTINF:-1 tvg-name="重庆影视" group-title="地方付费台",重庆影视
+#EXTINF:ID1938
 http://172.16.149.176:9090/live/1938.m3u8
-#EXTINF:-1 tvg-name="陕西影视" group-title="地方付费台",陕西影视
+#EXTINF:ID1939
 http://172.16.149.176:9090/live/1939.m3u8
-#EXTINF:-1 tvg-name="宁夏影视" group-title="地方付费台",宁夏影视
+#EXTINF:ID1940
 http://172.16.149.176:9090/live/1940.m3u8
-#EXTINF:-1 tvg-name="甘肃影视" group-title="地方付费台",甘肃影视
-http://172.16.149.176:9090/live/1942.m3u8
-#EXTINF:-1 tvg-name="青海综合影视" group-title="地方付费台",青海影视
+#EXTINF:ID1941
 http://172.16.149.176:9090/live/1941.m3u8
-
-# 高清数字轮播
-#EXTINF:-1 tvg-name="环球影视轮播" group-title="高清轮播",环球影视轮播
+#EXTINF:ID1942
+http://172.16.149.176:9090/live/1942.m3u8
+#EXTINF:ID2020
 http://172.16.149.176:9090/live/2020.m3u8
-#EXTINF:-1 tvg-name="经典港剧轮播" group-title="高清轮播",经典港剧轮播
-http://172.16.149.176:9090/live/2075.m3u8
-#EXTINF:-1 tvg-name="TVB剧集轮播" group-title="高清轮播",TVB剧集轮播
+#EXTINF:ID2074
 http://172.16.149.176:9090/live/2074.m3u8
-#EXTINF:-1 tvg-name="热门韩剧轮播" group-title="高清轮播",热门韩剧轮播
+#EXTINF:ID2075
+http://172.16.149.176:9090/live/2075.m3u8
+#EXTINF:ID2076
 http://172.16.149.176:9090/live/2076.m3u8
-#EXTINF:-1 tvg-name="热门美剧轮播" group-title="高清轮播",热门美剧轮播
+#EXTINF:ID2077
 http://172.16.149.176:9090/live/2077.m3u8
-#EXTINF:-1 tvg-name="动漫全集轮播" group-title="高清轮播",动漫全集轮播
-http://172.16.149.176:9090/live/2079.m3u8
-#EXTINF:-1 tvg-name="怀旧动漫轮播" group-title="高清轮播",怀旧动漫轮播
+#EXTINF:ID2078
 http://172.16.149.176:9090/live/2078.m3u8
-#EXTINF:-1 tvg-name="戏曲精选轮播" group-title="高清轮播",戏曲精选轮播
+#EXTINF:ID2079
+http://172.16.149.176:9090/live/2079.m3u8
+#EXTINF:ID2121
 http://172.16.149.176:9090/live/2121.m3u8
-#EXTINF:-1 tvg-name="粤语影视轮播" group-title="高清轮播",粤语影视轮播
-http://172.16.149.176:9090/live/2140.m3u8
-#EXTINF:-1 tvg-name="粤语剧场轮播" group-title="高清轮播",粤语剧场轮播
+#EXTINF:ID2122
 http://172.16.149.176:9090/live/2122.m3u8
-
-# 剩余卫视及特色频道完整补齐
-#EXTINF:-1 tvg-name="北京影视" group-title="地方频道",北京影视
-http://172.16.149.176:9090/live/2203.m3u8
-#EXTINF:-1 tvg-name="北京青年" group-title="地方频道",北京青年
+#EXTINF:ID2140
+http://172.16.149.176:9090/live/2140.m3u8
+#EXTINF:ID2201
 http://172.16.149.176:9090/live/2201.m3u8
-#EXTINF:-1 tvg-name="天津影视" group-title="地方频道",天津影视
+#EXTINF:ID2203
+http://172.16.149.176:9090/live/2203.m3u8
+#EXTINF:ID2207
 http://172.16.149.176:9090/live/2207.m3u8
-#EXTINF:-1 tvg-name="上海新闻综合" group-title="地方频道",上海新闻综合
+#EXTINF:ID2301
 http://172.16.149.176:9090/live/2301.m3u8
-#EXTINF:-1 tvg-name="上海都市频道" group-title="地方频道",上海都市
+#EXTINF:ID2302
 http://172.16.149.176:9090/live/2302.m3u8
-#EXTINF:-1 tvg-name="上海电视剧频道" group-title="地方频道",上海电视剧
-http://172.16.149.176:9090/live/2315.m3u8
-#EXTINF:-1 tvg-name="上海生活时尚" group-title="地方频道",上海生活时尚
-http://172.16.149.176:9090/live/2314.m3u8
-#EXTINF:-1 tvg-name="上海第一财经" group-title="地方频道",第一财经
+#EXTINF:ID2305
 http://172.16.149.176:9090/live/2305.m3u8
-#EXTINF:-1 tvg-name="上海五星体育" group-title="地方频道",五星体育
+#EXTINF:ID2314
+http://172.16.149.176:9090/live/2314.m3u8
+#EXTINF:ID2315
+http://172.16.149.176:9090/live/2315.m3u8
+#EXTINF:ID2316
 http://172.16.149.176:9090/live/2316.m3u8
-#EXTINF:-1 tvg-name="上海炫动少儿" group-title="地方频道",上海炫动
+#EXTINF:ID2317
 http://172.16.149.176:9090/live/2317.m3u8
-
-#EXTINF:-1 tvg-name="湖南都市" group-title="地方频道",湖南都市
+#EXTINF:ID2403
 http://172.16.149.176:9090/live/2403.m3u8
-#EXTINF:-1 tvg-name="湖南公共" group-title="地方频道",湖南公共
-http://172.16.149.176:9090/live/2411.m3u8
-#EXTINF:-1 tvg-name="湖南经视" group-title="地方频道",湖南经视
+#EXTINF:ID2405
 http://172.16.149.176:9090/live/2405.m3u8
-
-#EXTINF:-1 tvg-name="江苏城市频道" group-title="地方频道",江苏城市
+#EXTINF:ID2411
+http://172.16.149.176:9090/live/2411.m3u8
+#EXTINF:ID2501
 http://172.16.149.176:9090/live/2501.m3u8
-#EXTINF:-1 tvg-name="江苏综艺频道" group-title="地方频道",江苏综艺
+#EXTINF:ID2502
 http://172.16.149.176:9090/live/2502.m3u8
-#EXTINF:-1 tvg-name="江苏体育休闲" group-title="地方频道",江苏体育
+#EXTINF:ID2506
 http://172.16.149.176:9090/live/2506.m3u8
-#EXTINF:-1 tvg-name="浙江民生休闲" group-title="地方频道",浙江民生
+#EXTINF:ID2507
 http://172.16.149.176:9090/live/2507.m3u8
-#EXTINF:-1 tvg-name="浙江少儿频道" group-title="地方频道",浙江少儿
+#EXTINF:ID2509
 http://172.16.149.176:9090/live/2509.m3u8
-
-#EXTINF:-1 tvg-name="山东影视" group-title="地方频道",山东影视
+#EXTINF:ID2601
 http://172.16.149.176:9090/live/2601.m3u8
-#EXTINF:-1 tvg-name="山东生活频道" group-title="地方频道",山东生活
-http://172.16.149.176:9090/live/2608.m3u8
-#EXTINF:-1 tvg-name="山东农科频道" group-title="地方频道",山东农科
+#EXTINF:ID2605
 http://172.16.149.176:9090/live/2605.m3u8
-#EXTINF:-1 tvg-name="齐鲁频道" group-title="地方频道",齐鲁频道
+#EXTINF:ID2608
+http://172.16.149.176:9090/live/2608.m3u8
+#EXTINF:ID2610
 http://172.16.149.176:9090/live/2610.m3u8
-#EXTINF:-1 tvg-name="山东体育频道" group-title="地方频道",山东体育
+#EXTINF:ID2612
 http://172.16.149.176:9090/live/2612.m3u8
-#EXTINF:-1 tvg-name="山东少儿频道" group-title="地方频道",山东少儿
+#EXTINF:ID2614
 http://172.16.149.176:9090/live/2614.m3u8
-#EXTINF:-1 tvg-name="山东文旅频道" group-title="地方频道",山东文旅
-http://172.16.149.176:9090/live/2619.m3
+#EXTINF:ID2619
+http://172.16.149.176:9090/live/2619.m3u8
+#EXTINF:ID2652
+http://172.16.149.176:9090/live/2652.m3u8
+#EXTINF:ID2701
+http://172.16.149.176:9090/live/2701.m3u8
+#EXTINF:ID2702
+http://172.16.149.176:9090/live/2702.m3u8
+#EXTINF:ID2704
+http://172.16.149.176:9090/live/2704.m3u8
+#EXTINF:ID2705
+http://172.16.149.176:9090/live/2705.m3u8
+#EXTINF:ID2801
+http://172.16.149.176:9090/live/2801.m3u8
+#EXTINF:ID2802
+http://172.16.149.176:9090/live/2802.m3u8
+#EXTINF:ID2805
+http://172.16.149.176:9090/live/2805.m3u8
+#EXTINF:ID2811
+http://172.16.149.176:9090/live/2811.m3u8
+#EXTINF:ID2843
+http://172.16.149.176:9090/live/2843.m3u8
+#EXTINF:ID2901
+http://172.16.149.176:9090/live/2901.m3u8
+#EXTINF:ID2902
+http://172.16.149.176:9090/live/2902.m3u8
+#EXTINF:ID2919
+http://172.16.149.176:9090/live/2919.m3u8
+#EXTINF:ID2921
+http://172.16.149.176:9090/live/2921.m3u8
+#EXTINF:ID2922
+http://172.16.149.176:9090/live/2922.m3u8
+#EXTINF:ID2923
+http://172.16.149.176:9090/live/2923.m3u8
+#EXTINF:ID2925
+http://172.16.149.176:9090/live/2925.m3u8
+#EXTINF:ID2926
+http://172.16.149.176:9090/live/2926.m3u8
+#EXTINF:ID2927
+http://172.16.149.176:9090/live/2927.m3u8
+#EXTINF:ID2928
+http://172.16.149.176:9090/live/2928.m3u8
+#EXTINF:ID3001
+http://172.16.149.176:9090/live/3001.m3u8
+#EXTINF:ID3002
+http://172.16.149.176:9090/live/3002.m3u8
+#EXTINF:ID3009
+http://172.16.149.176:9090/live/3009.m3u8
+#EXTINF:ID3012
+http://172.16.149.176:9090/live/3012.m3u8
+#EXTINF:ID3013
+http://172.16.149.176:9090/live/3013.m3u8
+#EXTINF:ID3020
+http://172.16.149.176:9090/live/3020.m3u8
+#EXTINF:ID3024
+http://172.16.149.176:9090/live/3024.m3u8
+#EXTINF:ID3025
+http://172.16.149.176:9090/live/3025.m3u8
+#EXTINF:ID3131
+http://172.16.149.176:9090/live/3131.m3u8
+#EXTINF:ID3132
+http://172.16.149.176:9090/live/3132.m3u8
+#EXTINF:ID3133
+http://172.16.149.176:9090/live/3133.m3u8
+#EXTINF:ID3135
+http://172.16.149.176:9090/live/3135.m3u8
+#EXTINF:ID3201
+http://172.16.149.176:9090/live/3201.m3u8
+#EXTINF:ID3202
+http://172.16.149.176:9090/live/3202.m3u8
+#EXTINF:ID3209
+http://172.16.149.176:9090/live/3209.m3u8
+#EXTINF:ID3210
+http://172.16.149.176:9090/live/3210.m3u8
+#EXTINF:ID3301
+http://172.16.149.176:9090/live/3301.m3u8
+#EXTINF:ID3302
+http://172.16.149.176:9090/live/3302.m3u8
+#EXTINF:ID3303
+http://172.16.149.176:9090/live/3303.m3u8
+#EXTINF:ID3304
+http://172.16.149.176:9090/live/3304.m3u8
+#EXTINF:ID3404
+http://172.16.149.176:9090/live/3404.m3u8
+#EXTINF:ID3430
+http://172.16.149.176:9090/live/3430.m3u8
+#EXTINF:ID3434
+http://172.16.149.176:9090/live/3434.m3u8
+#EXTINF:ID3460
+http://172.16.149.176:9090/live/3460.m3u8
+#EXTINF:ID3473
+http://172.16.149.176:9090/live/3473.m3u8
+#EXTINF:ID3482
+http://172.16.149.176:9090/live/3482.m3u8
+#EXTINF:ID3483
+http://172.16.149.176:9090/live/3483.m3u8
+#EXTINF:ID3521
+http://172.16.149.176:9090/live/3521.m3u8
+#EXTINF:ID3523
+http://172.16.149.176:9090/live/3523.m3u8
+#EXTINF:ID3524
+http://172.16.149.176:9090/live/3524.m3u8
+#EXTINF:ID3525
+http://172.16.149.176:9090/live/3525.m3u8
+#EXTINF:ID3552
+http://172.16.149.176:9090/live/3552.m3u8
+#EXTINF:ID3601
+http://172.16.149.176:9090/live/3601.m3u8
+#EXTINF:ID3665
+http://172.16.149.176:9090/live/3665.m3u8
+#EXTINF:ID3702
+http://172.16.149.176:9090/live/3702.m3u8
+#EXTINF:ID3707
+http://172.16.149.176:9090/live/3707.m3u8
+#EXTINF:ID3709
+http://172.16.149.176:9090/live/3709.m3u8
+#EXTINF:ID3712
+http://172.16.149.176:9090/live/3712.m3u8
+#EXTINF:ID3714
+http://172.16.149.176:9090/live/3714.m3u8
+#EXTINF:ID3781
+http://172.16.149.176:9090/live/3781.m3u8
+#EXTINF:ID3801
+http://172.16.149.176:9090/live/3801.m3u8
+#EXTINF:ID3804
+http://172.16.149.176:9090/live/3804.m3u8
+#EXTINF:ID3806
+http://172.16.149.176:9090/live/3806.m3u8
+#EXTINF:ID3807
+http://172.16.149.176:9090/live/3807.m3u8
+#EXTINF:ID3814
+http://172.16.149.176:9090/live/3814.m3u8
+#EXTINF:ID3901
+http://172.16.149.176:9090/live/3901.m3u8
+#EXTINF:ID3905
+http://172.16.149.176:9090/live/3905.m3u8
+#EXTINF:ID3906
+http://172.16.149.176:9090/live/3906.m3u8
+#EXTINF:ID4004
+http://172.16.149.176:9090/live/4004.m3u8
+#EXTINF:ID4005
+http://172.16.149.176:9090/live/4005.m3u8
+#EXTINF:ID4008
+http://172.16.149.176:9090/live/4008.m3u8
+#EXTINF:ID4010
+http://172.16.149.176:9090/live/4010.m3u8
+#EXTINF:ID4011
+http://172.16.149.176:9090/live/4011.m3u8
+#EXTINF:ID4012
+http://172.16.149.176:9090/live/4012.m3u8
+#EXTINF:ID4013
+http://172.16.149.176:9090/live/4013.m3u8
+#EXTINF:ID4014
+http://172.16.149.176:9090/live/4014.m3u8
+#EXTINF:ID4015
+http://172.16.149.176:9090/live/4015.m3u8
+#EXTINF:ID4016
+http://172.16.149.176:9090/live/4016.m3u8
+#EXTINF:ID4017
+http://172.16.149.176:9090/live/4017.m3u8
+#EXTINF:ID4018
+http://172.16.149.176:9090/live/4018.m3u8
+#EXTINF:ID4019
+http://172.16.149.176:9090/live/4019.m3u8
+#EXTINF:ID8002
+http://172.16.149.176:9090/live/8002.m3u8
+
