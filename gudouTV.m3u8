@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="广东地方",广东体育 360p
+#EXTINF:-1 group-title="广东地方",珠海 360p
 http://172.16.149.176:9090/live/2203.m3u8
 #EXTINF:-1 group-title="各地市县",惠州综合(HZTV-1) 360p
 http://172.16.149.176:9090/live/2301.m3u8
@@ -85,7 +85,7 @@ http://172.16.149.176:9090/live/1457.m3u8
 http://172.16.149.176:9090/live/1458.m3u8
 #EXTINF:-1 group-title="广东地方",广东嘉佳卡通 416p
 http://172.16.149.176:9090/live/1459.m3u8
-#EXTINF:-1 group-title="广东地方",广东体育 416p
+#EXTINF:-1 group-title="广东地方",珠海 416p
 http://172.16.149.176:9090/live/1413.m3u8
 #EXTINF:-1 group-title="特色付费",BRTV卡酷少儿 416p
 http://172.16.149.176:9090/live/1464.m3u8
@@ -225,7 +225,7 @@ http://172.16.149.176:9090/live/1467.m3u8
 http://172.16.149.176:9090/live/1468.m3u8
 #EXTINF:-1 group-title="广东地方",广东卫视 416p
 http://172.16.149.176:9090/live/1401.m3u8
-#EXTINF:-1 group-title="广东地方",广东体育 416p
+#EXTINF:-1 group-title="广东地方",珠海 416p
 http://172.16.149.176:9090/live/1413.m3u8
 #EXTINF:-1 group-title="广东地方",广东珠江 416p
 http://172.16.149.176:9090/live/1437.m3u8
@@ -449,7 +449,7 @@ http172.16.149.1769090live1213.m3u8
 http172.16.149.1769090live1214.m3u8
 #EXTINF-1 group-title=广东地方,广东新闻 720p
 http172.16.149.1769090live1215.m3u8
-#EXTINF-1 group-title=广东地方,广东体育 720p
+#EXTINF-1 group-title=广东地方,珠海 720p
 http172.16.149.1769090live1216.m3u8
 #EXTINF-1 group-title=广东地方,大湾区卫视 720p
 http172.16.149.1769090live1217.m3u8
@@ -577,7 +577,7 @@ http://172.16.149.176:9090/live/2077.m3u8
 http://172.16.149.176:9090/live/2078.m3u8
 #EXTINF:-1 group-title="广东地方",增城综合 1080p
 http://172.16.149.176:9090/live/2079.m3u8
-#EXTINF:-1 group-title="广东地方",广东体育 1080p
+#EXTINF:-1 group-title="广东地方",珠海 1080p
 http://172.16.149.176:9090/live/2201.m3u8
 #EXTINF:-1 group-title="各地市县",斗门融媒 1080p
 http://172.16.149.176:9090/live/2207.m3u8
