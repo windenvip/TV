@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="广东地方",珠海 360p
-http://172.16.149.176:9090/live/2203.m3u8
+http://172.16.149.176:9090/live/2201.m3u8
 #EXTINF:-1 group-title="各地市县",惠州综合(HZTV-1) 360p
 http://172.16.149.176:9090/live/2301.m3u8
 #EXTINF:-1 group-title="各地市县",惠州经济生活（HZTV-2）360p
@@ -85,7 +85,7 @@ http://172.16.149.176:9090/live/1457.m3u8
 http://172.16.149.176:9090/live/1458.m3u8
 #EXTINF:-1 group-title="广东地方",广东嘉佳卡通 416p
 http://172.16.149.176:9090/live/1459.m3u8
-#EXTINF:-1 group-title="广东地方",珠海 416p
+#EXTINF:-1 group-title="广东地方",广东体育 416p
 http://172.16.149.176:9090/live/1413.m3u8
 #EXTINF:-1 group-title="特色付费",BRTV卡酷少儿 416p
 http://172.16.149.176:9090/live/1464.m3u8
@@ -578,7 +578,7 @@ http://172.16.149.176:9090/live/2078.m3u8
 #EXTINF:-1 group-title="广东地方",增城综合 1080p
 http://172.16.149.176:9090/live/2079.m3u8
 #EXTINF:-1 group-title="广东地方",珠海 1080p
-http://172.16.149.176:9090/live/2201.m3u8
+http://172.16.149.176:9090/live/2203.m3u8
 #EXTINF:-1 group-title="各地市县",斗门融媒 1080p
 http://172.16.149.176:9090/live/2207.m3u8
 #EXTINF:-1 group-title="各地市县",惠州综合(HTTV-1) 1080p
