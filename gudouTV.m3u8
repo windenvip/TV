@@ -366,9 +366,9 @@ http://172.16.149.176:9090/live/2121.m3u8
 http://172.16.149.176:9090/live/2122.m3u8
 #EXTINF:-1,2140
 http://172.16.149.176:9090/live/2140.m3u8
-#EXTINF:-1,广东体育 1080p
+#EXTINF:-1,珠海 360p
 http://172.16.149.176:9090/live/2201.m3u8
-#EXTINF:-1,广东体育 360p
+#EXTINF:-1,珠海 1080p
 http://172.16.149.176:9090/live/2203.m3u8
 #EXTINF:-1,斗门融媒 1080p
 http://172.16.149.176:9090/live/2207.m3u8
@@ -580,21 +580,3 @@ http://172.16.149.176:9090/live/4018.m3u8
 http://172.16.149.176:9090/live/4019.m3u8
 #EXTINF:-1,北京卫视 2160P
 http://172.16.149.176:9090/live/8002.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 group-title="未知频道",2140
-http://172.16.149.176:9090/live/2140.m3u8
-#EXTINF:-1 group-title="未知频道",2509
-http://172.16.149.176:9090/live/2509.m3u8
-#EXTINF:-1 group-title="未知频道",2612
-http://172.16.149.176:9090/live/2612.m3u8
-#EXTINF:-1 group-title="未知频道",2921
-http://172.16.149.176:9090/live/2921.m3u8
-#EXTINF:-1 group-title="未知频道",2922
-http://172.16.149.176:9090/live/2922.m3u8
-#EXTINF:-1 group-title="未知频道",3552
-http://172.16.149.176:9090/live/3552.m3u8
-#EXTINF:-1 group-title="未知频道",3906
-http://172.16.149.176:9090/live/3906.m3u8
